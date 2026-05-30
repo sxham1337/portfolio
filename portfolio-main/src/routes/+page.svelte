@@ -3,7 +3,7 @@
     import { onMount, onDestroy } from 'svelte';
 
 
-    let zapText = "Zapdos";
+    let zapText = "Soham Samanta";
 
 
     function randomChar() {
