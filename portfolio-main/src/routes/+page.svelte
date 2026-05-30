@@ -82,7 +82,7 @@
         </h1>
     </div>
     <div class="flex flex-row justify-between w-1/2 mx-auto px-auto">
-        <a href="mailto:n4rendhar@gmail.com">
+        <a href="mailto:sxham1337@gmail.com">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 md:h-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8"/></svg>
         </a>
         <a href="https://github.com/zapds">
