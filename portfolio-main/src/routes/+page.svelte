@@ -1,5 +1,5 @@
 <script>
-    import avatar from "$lib/assets/avatar.png"
+    import avatar from "$lib/assets/IMG_2304.JPG"
     import { onMount, onDestroy } from 'svelte';
 
 
